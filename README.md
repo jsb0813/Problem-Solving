@@ -1,4 +1,4 @@
-# Baekjoon Problem Solving
+# 🛠 Baekjoon Problem Solving
 ---
 Languages: C/C++, Python
 <!-- 백준 티어 -->
